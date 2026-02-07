@@ -2,7 +2,7 @@
 ' Project:      Bulk .DAT File Importer
 ' Author:       Krisztián Princzinger
 ' Description:  Reads and consolidates multitudes of .DAT files into a single sheet.
-'               Handles pagination/scrolling on SAP table controls automatically.
+'               Parses semicolon-delimited data and enforces data types.
 ' Note:         This was one of my first automation projects, designed to solve
 '               an immediate business need for mass data consolidation.
 '               It was originally written with Hungarian variables and comments,
@@ -76,3 +76,4 @@ Sub ImportAndConsolidateFiles()
     Loop
     MsgBox "Process Complete!", vbInformation
 End Sub
+
