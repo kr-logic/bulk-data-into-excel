@@ -3,7 +3,7 @@
 ' Author:       Krisztián Princzinger
 ' Description:  Reads and consolidates multitudes of .DAT files into a single sheet.
 '               Parses semicolon-delimited data and enforces data types.
-' Note:         This was one of my first automation projects, designed to solve
+' Note:         This was my first VBA automation project, designed to solve
 '               an immediate business need for mass data consolidation.
 '               It was originally written with Hungarian variables and comments,
 '               but I refactored them for this upload.
@@ -76,4 +76,5 @@ Sub ImportAndConsolidateFiles()
     Loop
     MsgBox "Process Complete!", vbInformation
 End Sub
+
 
