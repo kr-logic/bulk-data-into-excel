@@ -1,6 +1,9 @@
 ```
 BULK .DAT FILE IMPORTER INTO EXCEL
 ====================================
+This is my very first VBA project from my early automation days. It demonstrates 
+fundamental logic and problem-solving skills, though modern implementations 
+would utilize different performance techniques (see below).
 
 
 DESCRIPTION
@@ -15,10 +18,6 @@ autonomously.
 
 This version currently looks for files ending in .DAT format, but it can be
 extended/changed easily to suit other needs (eg. .CSV).
-
-NOTE: This is my very first VBA project from my early automation days. It demonstrates 
-fundamental logic and problem-solving skills, though modern implementations 
-would utilize different performance techniques (see below).
 
 
 KEY METRICS
