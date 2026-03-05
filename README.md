@@ -1,6 +1,3 @@
-```
-BULK .DAT FILE IMPORTER INTO EXCEL
-====================================
 This is my very first VBA project from my early automation days. It demonstrates 
 fundamental logic and problem-solving skills, though modern implementations 
 would utilize different performance techniques (see below).
@@ -73,8 +70,8 @@ USAGE
 4. The script will create a "Raw Data(VBA)" sheet and populate it.
 5. A message box confirms when the process is complete.
 
-================================================================================
+---------------
 AUTHOR: Princzinger Krisztián
+
 LICENSE: MIT
-================================================================================
-```
+
