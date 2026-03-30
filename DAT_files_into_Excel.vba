@@ -7,6 +7,7 @@
 '               an immediate business need for mass data consolidation.
 '               It was originally written with Hungarian variables and comments,
 '               but I refactored them for this upload.
+'Copyright (c) 2026 Princzinger Krisztián. All rights reserved.
 ' ==============================================================================
 
 Option Explicit
