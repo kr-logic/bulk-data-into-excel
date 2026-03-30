@@ -7,7 +7,6 @@
 '               an immediate business need for mass data consolidation.
 '               It was originally written with Hungarian variables and comments,
 '               but I refactored them for this upload.
-' License:      MIT License
 ' ==============================================================================
 
 Option Explicit
